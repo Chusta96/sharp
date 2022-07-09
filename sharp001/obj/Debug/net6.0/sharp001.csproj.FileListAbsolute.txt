@@ -1,0 +1,15 @@
+C:\sharp1\sharp001\bin\Debug\net6.0\sharp001.exe
+C:\sharp1\sharp001\bin\Debug\net6.0\sharp001.deps.json
+C:\sharp1\sharp001\bin\Debug\net6.0\sharp001.runtimeconfig.json
+C:\sharp1\sharp001\bin\Debug\net6.0\sharp001.dll
+C:\sharp1\sharp001\bin\Debug\net6.0\sharp001.pdb
+C:\sharp1\sharp001\obj\Debug\net6.0\sharp001.csproj.AssemblyReference.cache
+C:\sharp1\sharp001\obj\Debug\net6.0\sharp001.GeneratedMSBuildEditorConfig.editorconfig
+C:\sharp1\sharp001\obj\Debug\net6.0\sharp001.AssemblyInfoInputs.cache
+C:\sharp1\sharp001\obj\Debug\net6.0\sharp001.AssemblyInfo.cs
+C:\sharp1\sharp001\obj\Debug\net6.0\sharp001.csproj.CoreCompileInputs.cache
+C:\sharp1\sharp001\obj\Debug\net6.0\sharp001.dll
+C:\sharp1\sharp001\obj\Debug\net6.0\refint\sharp001.dll
+C:\sharp1\sharp001\obj\Debug\net6.0\sharp001.pdb
+C:\sharp1\sharp001\obj\Debug\net6.0\sharp001.genruntimeconfig.cache
+C:\sharp1\sharp001\obj\Debug\net6.0\ref\sharp001.dll
